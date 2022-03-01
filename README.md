@@ -1,19 +1,5 @@
 # audiophile
 
-## Project setup
-```
-npm install
-```
+Tienda de equipos de audio de alta calidad de sonido, marcas Hi-Fi para cine en casa, música estéreo y audio portátil. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Image text](https://i.ibb.co/mcSnXpf/audiophile.png)
